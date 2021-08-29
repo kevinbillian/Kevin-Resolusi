@@ -1,5 +1,7 @@
 Rencana Belajar
 
 * Belajar Javascript
+  * Dasar
+  * ES6
 * Belajar React
 * Interview Prep
