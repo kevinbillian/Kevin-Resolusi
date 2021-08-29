@@ -5,6 +5,8 @@ Rencana Belajar
   * ES6
   * Framework Javascript
     * Angular
-* Belajar React
+    * Vue
+    * React
 * Interview Prep
   * Data Structure
+* Python
